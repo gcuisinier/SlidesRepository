@@ -1,0 +1,52 @@
+
+=== Gradle Plugin, take control of the build - Devoxx France 2015
+https://docs.google.com/presentation/d/1llWSoa8KepAnYGFDE0HA4FtNmSdnVVHp7HPkQ5Ah94k/edit#slide=id.g91775d735_0_0
+
+=== JHipster
+http://fr.slideshare.net/julien.dubois/jhipster-devoxx-2015
+
+
+=== Packaging et Deploiement d'une application JEE avec Docker et Ansible
+http://www.slideshare.net/StephaneManciot/docker-ansible-46853055?ref=http://blog.ebiznext.com/2015/04/10/packaging_deploiement_docker_ansible/
+
+
+=== API Asynchrone Java 8
+http://fr.slideshare.net/jpaumard/api-asynchrones-en-java-8-46851752
+
+=== Les Streams sont parmis nous
+http://fr.slideshare.net/jpaumard/les-streams-sont-parmi-nous
+
+=== Se prÃ©parer Ã  l'arrivée d'Angular 2
+http://fr.slideshare.net/linsolas/devoxx-france-2015-se-prparer-larrive-dangular-2
+
+
+=== DÃ©veloppement Web, ce qui nous attends en 2015
+http://fr.slideshare.net/linsolas/devoxx-france-2015-dveloppement-web-en-2015
+
+=== API hypermedia
+http://fr.slideshare.net/delirii/api-hypermedia-devoxx-fr
+
+=== BDD, attention Ã  la gueule de bois !
+http://fr.slideshare.net/crochas/devoxx-2015-bdd-attention-a-la-gueule-de-bois-09042015
+
+=== Annotation Processor, trÃ©sor cachÃ© de la JVM
+http://fr.slideshare.net/raphaelbrugier/quickie-annotationsprocessordevoxxfr2015
+
+=== De la cryptographie dans le navigateur avec WebCrypto API
+http://fr.slideshare.net/JeanChristopheSirot/web-cryptoapi-devoxxfr2015
+
+
+
+=== Un Jenkins amÃ©liorÃ© avec Docker, Mesos et Marathon @ Devoxx France 2015
+https://speakerdeck.com/jlrigau/un-jenkins-ameliore-avec-docker-mesos-et-marathon-at-devoxx-france-2015
+
+=== 3h pour crÃ©er une application mobile de chat avec Ionic
+http://fr.slideshare.net/loicknuchel/devoxx-2015-ionic-chat-46884464
+https://github.com/loicknuchel/devoxx-2015-ionic-chat
+
+=== I don't always write reactive applications, but when I do, it runs on Raspberry Pi
+https://speakerdeck.com/mathieuancelin/i-dont-always-write-reactive-applications-but-when-i-do-it-runs-on-raspberry-pi-devoxx-france-2015
+
+=== React, une autre maniÃ¨re de penser vos composants graphiques
+https://speakerdeck.com/mathieuancelin/react-une-autre-maniere-de-penser-vos-composants-graphiques
+https://github.com/mathieuancelin/devoxx-fr-2015-react
